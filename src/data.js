@@ -36,7 +36,7 @@ export const girls = [
     name: "Jessie",
     image: jesseImg,
     horoscope: "Taurus",
-    room: 1,
+    room: 3,
     relationship: "The Bride!",
   },
   {
@@ -44,7 +44,7 @@ export const girls = [
     name: "Michelle",
     image: michelleImg,
     horoscope: "Libra",
-    room: 1,
+    room: 3,
     relationship: "Sister of the Bride",
   },
   {
@@ -52,7 +52,7 @@ export const girls = [
     name: "Abby",
     image: abbyImg,
     horoscope: "Sagittarius",
-    room: 3,
+    room: 1,
     relationship: "One of the OSU twins",
   },
   {
@@ -60,7 +60,7 @@ export const girls = [
     name: "Kelsey",
     image: kelseyImg,
     horoscope: "Sagittarius",
-    room: 3,
+    room: 1,
     relationship: "One of the OSU twins",
   },
   {
@@ -76,7 +76,7 @@ export const girls = [
     name: "Jess",
     image: bogusImg,
     horoscope: "Capricorn",
-    room: 3,
+    room: 4,
     relationship: "OSU friend",
   },
   {
@@ -108,7 +108,7 @@ export const girls = [
     name: "Cheryl",
     image: cherylImg,
     horoscope: "Cancer",
-    room: 4,
+    room: 3,
     relationship: "High School friend",
   },
   {
