@@ -129,7 +129,7 @@ export const girls = [
   },
   {
     id: 13,
-    name: "Bridgette",
+    name: "Brigette",
     image: bridgetteImg,
     horoscope: "Sagittarius",
     room: 5,
