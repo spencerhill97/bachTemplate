@@ -61,7 +61,7 @@ function Schedules() {
             toggleState === 1 ? "content active-grid-content" : "content"
           } grid-rows-auto grid-cols-[1.25fr,_3fr] pb-4 pt-2 shadow-2xl`}
         >
-          {Thursday.map((details, index) => {
+          {Thursday.map((details) => {
             const { time, event, id } = details;
             return <Days key={id} time={time} event={event} />;
           })}

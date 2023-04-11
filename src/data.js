@@ -164,7 +164,7 @@ export const arrivals = [
     group: 4,
     day: "Fri",
     time: "5:00AM",
-    people: ["Sara and Bre"],
+    people: "Sara and Bre",
   },
 ];
 
@@ -212,10 +212,10 @@ export const Thursday = [
 
 export const Friday = [
   { id: 1, time: "10:00AM", event: "Breakfast @ TBD" },
-  { id: 2, time: "3:00PM", event: "Boat day!" },
-  { id: 3, time: "6:00PM", event: "Head back to the Airbnb to get ready" },
-  { id: 4, time: "9:00PM", event: "Dinner @ Saltwater Cowboy" },
-  { id: 5, time: "10:30PM", event: "Night out on King Street" },
+  { id: 2, time: "11:00AM", event: "Airbnb get ready for boat" },
+  { id: 3, time: "3:00PM", event: "Boat day!" },
+  { id: 5, time: "6:00PM", event: "Dinner @ Saltwater Cowboy" },
+  { id: 6, time: "10:30PM", event: "Night out on King Street" },
 ];
 
 export const Saturday = [
@@ -223,7 +223,7 @@ export const Saturday = [
   { id: 2, time: "1:30PM", event: "Bar Golf Crawl!" },
   { id: 3, time: "7:00PM", event: "Finish up Bar Golf" },
   { id: 4, time: "7:30PM", event: "Head back to the Airbnb" },
-  { id: 5, time: "7:30PM", event: "Chinese back at the Airbnb" },
+  { id: 5, time: "7:30PM", event: "Chinese dinner at the Airbnb" },
 ];
 
 export const Sunday = [

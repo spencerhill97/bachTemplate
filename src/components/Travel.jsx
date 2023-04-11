@@ -55,7 +55,7 @@ function Travel() {
                 Group
               </th>
               <th className="border border-blue-400 p-1 font-['Open_Sans']">
-                Day & Time
+                Approx Time
               </th>
               <th className="border border-blue-400 p-1 font-['Open_Sans']">
                 Girls
@@ -92,7 +92,7 @@ function Travel() {
                 Group
               </th>
               <th className="border border-blue-400 p-1 font-['Open_Sans']">
-                Day & Time
+                Approx Time
               </th>
               <th className="border border-blue-400 p-1 font-['Open_Sans']">
                 Girls
